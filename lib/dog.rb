@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  def initalize
+  def initalize(name)
     @fido=fido
     @snoopy=snoopy
     @lassie=lassie
