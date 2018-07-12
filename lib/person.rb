@@ -2,5 +2,5 @@
 class Person
 end
 
-adele_goldberg=Dog.new
+adele_goldberg=.new
 alan_kay=Dog.new
