@@ -2,5 +2,5 @@
 class Person
 end
 
-adele_goldberg=.new
-alan_kay=Dog.new
+adele_goldberg=Person.new
+alan_kay=Person.new
